@@ -58,7 +58,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Yuma's Activity Graph](https://activity-graph.herokuapp.com/graph?username=yuma-dev&custom_title=Yuma's Contribution Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://lantern.lol/)
+[Yuma's Activity Graph](https://activity-graph.herokuapp.com/graph?username=yuma-dev&custom_title=Yuma's Contribution Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://lantern.lol/)
 
 ------
 
