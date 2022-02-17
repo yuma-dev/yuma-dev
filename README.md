@@ -1,17 +1,65 @@
-⠀
-⠀⠀⠀•⠀•⠀⠀⠀⠀⠀⠀⠀⠀⠀◖⠀⠀⠀⠀⠀⠀⠀⠀⠀•⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⬤⠀⠀⠀⠀⠀⠀⠀⠀⠀•⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀◗⠀⠀⠀⠀⠀⠀⠀⠀⠀•⠀•
+<h1 align="center">
+  <b>Abhigyan Trips</b>
+</h1>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ————⠀⠀[b]よ⠀⠀う⠀⠀こ⠀⠀そ[/b]⠀⠀————
+Heya! I'm Fabian Silbermann, a student currently living in Berlin, Germany. I'm preparing for 
+<a href="https://en.wikipedia.org/wiki/Software_development">SD</a>, 
+and learning programming through small projects  on the side.
 
-⠀⠀⠀⠀i⠀n⠀f⠀o⠀—————————————————————————————————————
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ᴍʏ ɴᴀᴍᴇ ɪꜱ ʏᴜᴍᴀ ᴀɴᴅ ɪ'ᴍ ɢᴇʀᴍᴀɴ. ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ ᴍʏ ᴘʀᴏꜰɪʟᴇ.
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ɪ ᴇɴᴊᴏʏ ꜱᴜꜱʜɪ ᴀɴᴅ ᴄᴏᴅɪɴɢ.
-⠀⠀⠀⠀l⠀i⠀n⠀k⠀s⠀————————————————————————————————————
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ [url=https://steamcommunity.com/id/llyuma]steam[/url]⠀⠀→⠀⠀[url=https://open.spotify.com/user/rbligs6vyav6ackl5rz0dqbro]spotify[/url]⠀⠀→⠀⠀[url=https://github.com/yuma-dev]github[/url]⠀⠀→⠀⠀[url=https://discordapp.com/users/178525733600100352]discord[/url]
-⠀⠀⠀⠀o⠀t⠀h⠀e⠀r⠀————————————————————————————————————
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ɪ ʜᴏᴘᴇ ʏᴏᴜ ᴇɴᴊᴏʏ ᴍʏ ᴘʀᴏꜰɪʟᴇ. ʜᴀᴠᴇ ᴀ ɢʀᴇᴀᴛ ᴅᴀʏ ᴀɴᴅ ɢᴏᴏᴅʙʏᴇ~
+<br>
 
-⠀⠀⠀⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•⠀•
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
 
-⠀⠀⠀⠀❝⠀⠀𝘙𝘰𝘴𝘦𝘴 𝘢𝘳𝘦 𝘳𝘦𝘥. 𝘝𝘪𝘰𝘭𝘦𝘵𝘴 𝘢𝘳𝘦 𝘣𝘭𝘶𝘦. 𝘜𝘯𝘦𝘹𝘱𝘦𝘤𝘵𝘦𝘥 '}' 𝘰𝘯 𝘓𝘪𝘯𝘦 32⠀⠀❞
-⠀
+```python
+class Yuma():
+    
+  def __init__(self):
+    self.name = "Fabian Silbermann";
+    self.username = "yuma-dev";
+    self.location = "Berlin, Germany";
+    self.discord = "yuma#7280";
+    self.web = "https://lantern.lol"; # ERROR: Yuma.web is still under development
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Yuma()
+```
+
+<div align="center">
+  <a href="https://open.spotify.com/user/rbligs6vyav6ackl5rz0dqbro">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://lantern.lol/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=yuma-dev&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuma-dev&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Yuma's Activity Graph](https://activity-graph.herokuapp.com/graph?username=yuma-dev&custom_title=Yuma's Contribution Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://lantern.lol/v)
+
+------
+
+Last Edited on: 18/02/2022
