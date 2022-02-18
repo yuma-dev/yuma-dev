@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Yuma aka. Fabian Silbermann</b>
 </h1>
 
 Heya! I'm Fabian Silbermann, a student currently living in Berlin, Germany. I'm preparing for 
