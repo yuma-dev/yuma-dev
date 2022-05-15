@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Yuma aka. Fabian Silbermann</b>
+  <b>Yuma aka. F.S.</b>
 </h1>
 
-Heya! I'm Fabian Silbermann, a student currently living in Berlin, Germany. I'm preparing for 
+Heya! I'm F.S., a student currently living in Berlin, Germany. I'm preparing for 
 <a href="https://en.wikipedia.org/wiki/Software_development">SD</a>, 
 and learning programming through small projects  on the side.
 
@@ -20,7 +20,7 @@ and learning programming through small projects  on the side.
 class Yuma():
     
   def __init__(self):
-    self.name = "Fabian Silbermann";
+    self.name = "F.S.";
     self.username = "yuma-dev";
     self.location = "Berlin, Germany";
     self.discord = "yuma#7280";
