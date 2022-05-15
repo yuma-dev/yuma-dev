@@ -33,11 +33,6 @@ if __name__ == '__main__':
     me = Yuma()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://novatorem-nine-red.vercel.app/api/spotify">
-  </a>
-</div>
 
 
 <!--
