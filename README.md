@@ -24,7 +24,6 @@ class Yuma():
     self.username = "yuma-dev";
     self.location = "Berlin, Germany";
     self.discord = "yuma#7280";
-    self.web = "https://lantern.lol"; # ERROR: Yuma.web is still under development
   
   def __str__(self):
     return self.name
