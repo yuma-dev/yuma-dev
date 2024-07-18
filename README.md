@@ -53,8 +53,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Yumas' Activity Graph](https://activity-graph.herokuapp.com/graph?username=yuma-dev&custom_title=Yuma's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://lantern.lol/)
-
+![Yuma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuma-dev&theme=github-compact)
 ------
 
 Last Edited on: 18/02/2022
